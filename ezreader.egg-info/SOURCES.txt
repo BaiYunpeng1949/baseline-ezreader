@@ -1,0 +1,11 @@
+README.md
+setup.py
+ezreader/__init__.py
+ezreader/simulation.py
+ezreader/utilities.py
+ezreader.egg-info/PKG-INFO
+ezreader.egg-info/SOURCES.txt
+ezreader.egg-info/dependency_links.txt
+ezreader.egg-info/not-zip-safe
+ezreader.egg-info/requires.txt
+ezreader.egg-info/top_level.txt

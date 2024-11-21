@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ezreader
+Version: 0.1
+Summary: E-Z Reader
+Home-page: https://github.com/jakdot/ezreader-python
+Author: jakdot
+Author-email: j.dotlacil@gmail.com
+License: GPL
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Scientific/Engineering
+Requires-Dist: numpy
+Requires-Dist: simpy
