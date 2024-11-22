@@ -445,6 +445,7 @@ if __name__ == "__main__":
         stimulus_index = stimulus['stimulus_index']
         participant_index = stimulus['participant_index']
         time_constraint = stimulus['time_constraint']
+        baseline_model_name = stimulus['baseline_model_name']
         words_data = stimulus['words']
         
         # Create Word objects for the simulation
@@ -477,6 +478,7 @@ if __name__ == "__main__":
             "stimulus_index": stimulus_index,
             "participant_index": participant_index,
             "time_constraint": time_constraint,
+            "baseline_model_name": baseline_model_name,
             "fixation_data": fixation_data
         }
         output_data.append(stimulus_output)
